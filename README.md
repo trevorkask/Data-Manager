@@ -1,6 +1,6 @@
 # NBA PLAYER STAT SEARCH
 ## What's the purpose?
-The program is made for National Basketball Association enthusiasts and analysts who might want to get more accurate statitstics on player as well as getting 
+The program is made for National Basketball Association enthusiasts and analysts who might want to get more accurate statistics on a player as well as get 
 deeper analysis on trends that have taken place over a certain period.
 
 ## What does the program do?
@@ -9,7 +9,7 @@ deeper analysis on trends that have taken place over a certain period.
 - Print out all statistics for the player in the current season if the requested stat is not understood or unavailable
 - Perform player comparisons
 - Print out an interesting trend in statistics e.g the average height of players has reduced by 11% from 1992 to 2022. (coming soon)
-- Print out the standings in both the eastern and western conference (Updated daily manually)
+- Print out the standings in both the eastern and western conferences (Updated daily manually)
 
 ## What tools were used?
 - Python programming
@@ -19,8 +19,8 @@ deeper analysis on trends that have taken place over a certain period.
 - Data from Kaggle and NBA.com
 
 ## Challenges faced
-- Difficuly in actualising the program into a website or an app
-- Limited knowledge in databases that prevents me from updating the data automatically
+- Difficulty in actualizing the program into a website or an app
+- Limited knowledge of databases that prevents me from updating the data automatically
 
 ## Tasks left
 - Fix up the algorithm file that performs the analysis part of the program
