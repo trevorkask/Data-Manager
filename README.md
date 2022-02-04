@@ -24,5 +24,5 @@ deeper analysis on trends that have taken place over a certain period.
 
 ## Tasks left
 - Fix up the algorithm file that performs the analysis part of the program
-- Use a database that update periodically on its own
+- Use a database that updates periodically on its own
 - Convert the program into a website
