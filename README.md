@@ -23,6 +23,6 @@ deeper analysis on trends that have taken place over a certain period.
 - Limited knowledge of databases that prevents me from updating the data automatically
 
 ## Tasks left
-- Fix up the algorithm file that performs the analysis part of the program
+- Fix up bugs in the algorithm file that performs the analysis part of the program
 - Use a database that updates periodically on its own
 - Convert the program into a website
