@@ -14,6 +14,8 @@ deeper analysis on trends that have taken place over a certain period.
 ## What tools were used?
 - Python programming
 - Natural Language Processing in AI
+- Markov chains and hidden markov models for probability checks
+- Knowledge-based model for user request prediction
 - Libraries such as NLTK, CoreNLP, Pandas, Openpyxl, spaCy, NumPy, Pomegranate
 - Microsoft Excel and Visual Studio Code
 - Data from Kaggle and NBA.com
