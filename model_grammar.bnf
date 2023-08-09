@@ -1,0 +1,8 @@
+<player> ::= <name> ("," <country>)?
+<name> ::= <word> (" " <word>)+
+<word> ::= (any sequence of alphabetic characters)
+<country> ::= ("from" | "of") ("the")? <word>
+<stats> ::= <number> ("-" <number>)*
+<number> ::= (any sequence of numeric characters)
+<year> ::= "in" <number>
+<team> ::= "playing" ("for" | "with") ("the")? <word>
