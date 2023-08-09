@@ -20,10 +20,6 @@ deeper analysis on trends that have taken place over a certain period.
 - Microsoft Excel and Visual Studio Code
 - Data from Kaggle and NBA.com
 
-## Challenges faced
-- Difficulty in actualizing the program into a website or an app
-- Limited knowledge of databases that prevents me from updating the data automatically
-
 ## Tasks left
 - Fix up bugs in the algorithm file that performs the analysis part of the program
 - Use a database that updates periodically on its own
